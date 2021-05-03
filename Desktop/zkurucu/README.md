@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/dgjAj4AhCvCTCBm8UN/giphy.gif" align="right" width="400" height="250">
 
 ### Hi there, I'm Zafer. :bowtie:
 
