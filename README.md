@@ -32,7 +32,7 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkurucu&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" >
 </details>
 
 
