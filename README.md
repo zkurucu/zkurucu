@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif" align="right" width="400" height="250">
+<img src="https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif" alt="" style="max-width:100%;">
 
 ### Hi there, I'm Zafer <g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋&zwj;♂️</g-emoji>
 
