@@ -1,10 +1,8 @@
-<img src="https://media.giphy.com/media/dgjAj4AhCvCTCBm8UN/giphy.gif" align="right" width="400" height="250">
+<img src="https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif" align="right" width="400" height="250">
 
-### Hi there, I'm Zafer. :bowtie:
+### Hi there, I'm Zafer <g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋&zwj;♂️</g-emoji>
 
 ## Web Developer 
-
-<font color="seablue">Coffee :coffee: is how I keep up with `< code />` </font>
 
 ### Reach out to me
 
@@ -16,7 +14,7 @@
 
 ### Tech I use
 
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" />
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
@@ -38,3 +36,4 @@
 
 [twitter]: https://twitter.com/zkurucu
 [linkedin]: https://www.linkedin.com/in/zafer-kurucu-b089091b5/
+ 
