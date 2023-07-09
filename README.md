@@ -21,8 +21,7 @@
 ### Reach out to me
 
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-
+<a target="_blank" href="https://www.linkedin.com/in/zafer-kurucu-b089091b5/"><img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" /></a>
 <br />
 <br />
 
@@ -32,5 +31,5 @@
 </details>
 
 
-https://www.linkedin.com/in/zafer-kurucu-b089091b5/
+
  
