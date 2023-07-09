@@ -20,7 +20,7 @@
 
 ### Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter] 
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 <br />
@@ -32,6 +32,5 @@
 </details>
 
 
-[twitter]: https://twitter.com/zkurucu
-[linkedin]: https://www.linkedin.com/in/zafer-kurucu-b089091b5/
+https://www.linkedin.com/in/zafer-kurucu-b089091b5/
  
